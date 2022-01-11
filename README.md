@@ -57,7 +57,7 @@ Windows Shell ile konteynırları run edebiliriz artık.
 
 ```docker run hello-world```
 
-Container'ı ilk lokal olarak arıyor bulamayınca [DockerHub](https://hub.docker.com/search?type=image) üzerinden indiriyor.
+Container'ı ilk lokal olarak arıyor bulamayınca [DockerHub](https://hub.docker.com/search?type=image) üzerinden indiriyor.DockerHub üzerinden public\private olarak şirketlerin containerıze ettiği uygulamalara erişebilir hatta kendiniz de oluşturduğunuz imageleri DockerHub'a public olarak gönderebilirsiniz.
 
 Çalışan ve çalışmayan tüm konteynırları görüntülemek için; (*not: sadece çalışan konteynırları görüntülemek istiyorsak **-a**'yı atabiliriz. 
 ```
