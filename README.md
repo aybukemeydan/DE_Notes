@@ -59,7 +59,7 @@ Windows Shell ile konteynırları run edebiliriz artık.
 
 Container'ı ilk lokal olarak arıyor bulamayınca [DockerHub](https://hub.docker.com/search?type=image) üzerinden indiriyor.
 
-Çalışan konteynırları görüntülemek için;
+Çalışan ve çalışmayan tüm konteynırları görüntülemek için; (*not: sadece çalışan konteynırları görüntülemek istiyorsak **-a**'yı atabiliriz. 
 ```
 docker ps -a
 ```
@@ -75,3 +75,4 @@ Kaldırmak istiyorsak;
 
 
 
+*To be continued*
