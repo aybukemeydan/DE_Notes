@@ -70,8 +70,7 @@ docker stop containerID
 Burada containerID'yi çalışan konteynırları görüntülerken görmüştük. İlk 3 karakterini yazsak dahi durduracaktır.
 
 Kaldırmak istiyorsak;
-```
-docker rm containerID``` ile komut satırları aracılığıyla ya da Docker Desktop üzerinden manuel bir şekilde bu işlemleri yapabilirsiniz.
+```docker rm containerID``` ile komut satırları aracılığıyla ya da Docker Desktop üzerinden manuel bir şekilde bu işlemleri yapabilirsiniz.
 
 
 
